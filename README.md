@@ -42,4 +42,4 @@ Bước 3: Tiến hành thực thi các câu truy vấn hoặc thao tác tìm ki
 Môi trường khuyến nghị: Microsoft Word / Microsoft Excel / Các hệ quản trị CSDL phù hợp.
 
 Tác giả / Nguồn: Bài thực hành thuộc môn học Cơ sở dữ liệu / Tìm kiếm thông tin.
-Nguồn tham khảo: Gemini và các kênh học tập chính thống
+ Nguồn tham khảo: Gemini và các kênh học tập chính thống
